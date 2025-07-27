@@ -4,7 +4,7 @@
 }
 Gui.Prototype.DefineProp("DarkMode", {Call: DarkMode})
 
-MakeFontNicer(guiObj, fontSize := 10) {
+MakeFontNicer(guiObj, fontSize := 12) {
     guiObj.SetFont("s" fontSize " cC5C5C5", "Consolas")
     return guiObj
 }
