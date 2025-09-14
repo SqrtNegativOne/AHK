@@ -167,6 +167,7 @@ DetectHiddenWindows True
 ::;`.;::⋅
 ::;`*;::×
 ::;x;::×
+::;cross::×
 ::;`/;::÷
 ::;div::÷
 ::;sqrt::√
@@ -185,6 +186,8 @@ DetectHiddenWindows True
 ::;f;::ƒ
 ::;d;::∂
 ::;partial::∂
+::;join::⋈
+::;naturaljoin::⋈
 
 ::;.-.::→
 ::;,-,::←
