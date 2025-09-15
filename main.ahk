@@ -188,6 +188,9 @@ DetectHiddenWindows True
 ::;partial::∂
 ::;join::⋈
 ::;naturaljoin::⋈
+::;leftjoin::⟕
+::;rightjoin::⟖
+::;fulljoin::⟗
 
 ::;.-.::→
 ::;,-,::←
