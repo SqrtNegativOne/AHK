@@ -303,7 +303,7 @@ Space & r:: {
 	Sleep 100
 	Reload
 }
-Space & s::Run("C:\Users\arkma\Documents\Github\StopwatchTK\main.pyw")
+Space & s::Run '"C:\Users\arkma\Documents\GitHub\StopwatchTK\.venv\Scripts\pythonw.exe" "C:\Users\arkma\Documents\GitHub\StopwatchTK\main.pyw"'
 ; tu
 mouseDisabled := false
 Space & v::ToggleMouse()
