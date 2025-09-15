@@ -284,15 +284,21 @@ CapsLock::Ctrl
 
 #HotIf GetKeyState("RAlt", "P") ; -----------------------------------------------------------
 
-Space & a::Run("C:\Users\arkma\AppData\Local\Programs\Anki\anki.exe")
-Space & b::Run("C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe")
-; cd
+f:: {
+	Global BlockTheMouse := True
+	BlockInput 'MouseMove'
+	SoundBeep 1500
+}
+^c:: {
+ Global BlockTheMouse:= False
+}
+
+; abcd
 Space & e::Edit
-; fghijk
+; ghijk
 Space & l::CapsLock
-Space & m::Run("C:\Users\arkma\AppData\Local\Programs\cron-web\Notion Calendar.exe")
-; nopq
-Space & r::{
+; mnopq
+Space & r:: {
 	Send '^s'
 	Sleep 100
 	Reload
@@ -324,16 +330,6 @@ ToggleMouse() {
         ToolTip("Mouse Enabled")
         SetTimer () => ToolTip(), -1000  ; Remove tooltip after 1 second
     }
-}
-
-f:: {
-	Global BlockTheMouse := True
-	BlockInput 'MouseMove'
-	SoundBeep 1500
-}
-
-^c:: {
- Global BlockTheMouse:= False
 }
 ; wxy
 Space & z::Run("C:\Program Files\Zeal\zeal.exe")
