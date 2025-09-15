@@ -331,8 +331,7 @@ ToggleMouse() {
         SetTimer () => ToolTip(), -1000  ; Remove tooltip after 1 second
     }
 }
-; wxy
-Space & z::Run("C:\Program Files\Zeal\zeal.exe")
+; wxyz
 
 #HotIf
 
