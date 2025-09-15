@@ -360,6 +360,7 @@ ToggleMouse() {
 ::\left(::\left(\right){left 7}
 ::\left|::\left|\right|{left 7}
 ::\lfl::\left\lfloor \right\rfloor{left 13}
+::\langle::\langle \rangle{left 7}
 ::\cfrac{::\cfrac{{}{}}{{}{}}{left 3}
 ::\frac{::\frac{{}{}}{{}{}}{left 3}
 ::\text{::\text{{}{}}{left 1}
