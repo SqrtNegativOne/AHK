@@ -163,6 +163,7 @@ DetectHiddenWindows True
 
 ::+-::±
 ::-+::∓
+::;oplus::⊕
 ::;-;::−
 ::;`.;::⋅
 ::;`*;::×
