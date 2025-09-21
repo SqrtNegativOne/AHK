@@ -223,7 +223,11 @@ DetectHiddenWindows True
 ::;inset::∈ ; member of
 ::;notin::∉
 ::;ni::∋ ; contains as member
-::;subset::⊂
+::;subset;::⊂
+::;supset;::⊃
+::;subseteq::⊆
+::;supseteq::⊇
+::;emptyset::∅
 ::;cup::∪
 ::;union::∪
 ::;cap::∩
