@@ -86,7 +86,7 @@ DetectHiddenWindows True
 ::;bl::ₗ
 ::;bm::ₘ
 ::;bn::ₙ
-::;bo::ₒ
+::;bo;::ₒ
 ::;bp::ₚ
 ::;br;::ᵣ
 ::;bs::ₛ
@@ -204,6 +204,7 @@ DetectHiddenWindows True
 ::;f;::ƒ
 ::;d;::∂
 ::;partial::∂
+::;bowtie::⋈
 ::;join::⋈
 ::;naturaljoin::⋈
 ::;leftjoin::⟕
