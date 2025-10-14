@@ -106,6 +106,7 @@ DetectHiddenWindows True
 ::;b8::₈
 ::;b9::₉
 
+::;b,::,
 ::;b+::₊
 
 ::;st;::ˢᵗ
