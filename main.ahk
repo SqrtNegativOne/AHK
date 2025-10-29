@@ -303,6 +303,8 @@ Shift & z::
 }
 #HotIf
 
+; ^#c::^PrintScreen
+
 ; Map Capslock to Ctrl, and to enable capslock, use Shift+Capslock
 CapsLock::Ctrl
 
