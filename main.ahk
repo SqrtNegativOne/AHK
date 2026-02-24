@@ -33,7 +33,7 @@ DetectHiddenWindows True
     Send "^+i"
 }
 
-
+::;cc::claude --dangerously-skip-permissions
 
 ; -------------------------------------------------------------------------------------------
 ; SYMBOLS
@@ -269,7 +269,7 @@ DetectHiddenWindows True
 ::;lceil::⌈
 ::;rceil::⌉
 
-::;--::—
+::;--::⸻ ; —
 ::;and::&
 ::;shrug::¯\_(ツ)_/¯
 ::;drarrow::↳
