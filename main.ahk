@@ -57,6 +57,7 @@ DetectHiddenWindows True
 ::;pp::ᵖ
 ::;pq::ᑫ
 ::;pr;::ʳ
+::;^r::ʳ
 ::;ps;::ˢ ; conflicts with ;psi ψ
 ::;pt::ᵗ
 ::;pu::ᵘ
