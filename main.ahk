@@ -270,7 +270,7 @@ DetectHiddenWindows True
 ::;lceil::⌈
 ::;rceil::⌉
 
-::;--::⸻ ; —
+::;--::—
 ::;and::&
 ::;shrug::¯\_(ツ)_/¯
 ::;drarrow::↳
