@@ -322,7 +322,7 @@ Shift & z::
 ; ^#c::^PrintScreen
 
 ; Map Capslock to Ctrl, and to enable capslock, use Shift+Capslock
-CapsLock::Ctrl
+; CapsLock::Ctrl
 
 #HotIf GetKeyState("RAlt", "P") ; -----------------------------------------------------------
 
@@ -350,11 +350,12 @@ Space & d::{ ; PDF invert color / dark mode ; Doesn't work.
 Space & e::Edit
 ; ghijk
 Space & l::CapsLock
-; mnopq
+Space & m::Run "https://www.youtube.com/watch?v=X4VbdwhkE10"
+; nopq
 Space & r:: {
 	Send '^s'
 	Sleep 100
-	Reload
+	Reload 
 }
 Space & s::Run '"C:\Users\arkma\Documents\GitHub\StopwatchTK\.venv\Scripts\pythonw.exe" "C:\Users\arkma\Documents\GitHub\StopwatchTK\main.pyw"'
 ; tu
