@@ -274,7 +274,8 @@ DetectHiddenWindows True
 ::;and::&
 ::;shrug::¯\_(ツ)_/¯
 ::;drarrow::↳
-::;lrarrow::↵
+::;rdarrow::↴
+::;dlarrow::↵
 ::;table::┌─────┐ ; courtesy of Github Copilot
 
 ::;!::⚠️
